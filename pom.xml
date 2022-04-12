@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.94.85.117:8081/repository/USAA-TT-RELEASE/</url>
+	      <url>http://172.31.84.140:8081/repository/USAA-TT-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.94.85.117:8081/repository/USAA-TT-SNAPSHOT/</url>
+	      <url>http://172.31.84.140:8081/repository/USAA-TT-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
