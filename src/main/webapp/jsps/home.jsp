@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">WOMA</h1>
+<h1 align="center">PUT IN THE WORK</h1>
 <h2 align="center"> WOMA.
 	Special testimony and thanksgiving session coming up on Sunday June 27, 2021
 	Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
